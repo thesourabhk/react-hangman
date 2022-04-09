@@ -59,4 +59,4 @@ Here is how the code base looks from the beginning:
 
 My biggest take away from this exercise was understanding how to render specific information based on conditions. First time using Set() and and so I had to learn how that works. 
 
-:thumbsup: *Thanks for checking out my work on GitHub! For more about me find me on Twitter [@TyeDev](https://twitter.com/tyedev) or vist my personal website [TyeCampbell.com](www.TyeCampbell.com).*
+:thumbsup: *Thanks for checking out my work on GitHub! For more about me find me on Twitter [@Sourabh_k_d](https://twitter.com/Sourabh_k_d) or vist my personal website [thesourabhk.github.io](https://thesourabhk.github.io).*
