@@ -5,7 +5,7 @@ A React hangman game exercise.
 
 ![Preview of inital code base - hangman game](docs/finalpreview.gif)
 
-[Click here](https://tyecampbell-hangman.netlify.com) to preview a live example. 
+[Click here](https://lambent-queijadas-e4930f.netlify.app/) to preview a live example. 
 
 ##### What I Learned
 
